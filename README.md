@@ -31,9 +31,9 @@ The main objective of this project is to understand how to interface a DHT senso
 #### Technologies Used
 - **Arduino Board**: The microcontroller used to interface with the DHT sensor and display the data.
 - **DHT Sensor**: A sensor used to measure temperature and humidity.
-- **LCD Screen**: Used to display the temperature and humidity readings (optional).
+- **LCD Screen**: Used to display the temperature and humidity readings .
 - **Arduino IDE**: The integrated development environment used to write the code for the Arduino board.
-- **Tinkercad**: An online platform for designing and simulating electronic circuits (optional for simulation).
+- **Wokwi**: An online platform for designing and simulating electronic circuits .
 
 #### Components Needed
 - Arduino board (e.g., Arduino Uno)
@@ -49,20 +49,20 @@ The main objective of this project is to understand how to interface a DHT senso
    - Connect the DATA pin of the DHT sensor to a digital pin (e.g., pin 2) on the Arduino.
 
 2. **Data Display Setup** (for LCD):
-   - Connect the LCD screen to the Arduino as per the standard 16x2 LCD connection (if using).
-   - If not using an LCD, prepare to use the serial monitor for data display.
+   - Connect the LCD screen to the Arduino as per the standard 16x2 LCD connection .
+   - Connects the pins with aurdino
 
 3. **Programming the Arduino**:
    - Open the Arduino IDE.
-   - Install the DHT sensor library (DHT sensor library by Adafruit).
+   - Install the DHT sensor library .
    - Write the code.
 
 
-4. **Simulation** (optional):
-   - Use Tinkercad to create a virtual circuit.
-   - Place an Arduino, DHT sensor, and LCD in the Tinkercad workspace.
+4. **Simulation**:
+   - Use Wokwi to create a virtual circuit.
+   - Place an Arduino, DHT sensor, and LCD in the Wokwi workspace.
    - Connect the components as described in the Sensor Interfacing and Data Display Setup sections.
-   - Copy and paste the Arduino code into the Tinkercad code editor.
+   - Write the Arduino code into the wokwi code editor.
    - Start the simulation to see the temperature and humidity readings.
 
 5. **Testing**:
