@@ -1,20 +1,23 @@
-**NAME**    = KOTA LOKESWAR
+**NAME**      = KOTA LOKESWAR
 
-**COMPANY** = CODETECH IT SOLUTIONS
+**COMPANY**   = CODETECH IT SOLUTIONS
 
-**ID**      = CT08DS1682
+**ID**        = CT08DS1682
 
-**DOMAIN**  = EMBEDDED SYSTEMS
+**DOMAIN**    = EMBEDDED SYSTEMS
 
-**DURATION** = JUNE TO JULY 2024
+**DURATION**  = JUNE TO JULY 2024
 
-**MENTOR** = SRAVANI GOUNI
+**MENTOR**    = SRAVANI GOUNI
 
 
 
 ## PROJECT OVERVIEW
 
 ### Title: Temperature and Humidity Monitoring with DHT Sensor
+
+![Screenshot 2024-06-10 195603](https://github.com/lokeswarkota/CODETECH-TASK-2/assets/172287217/219ce08f-e562-4a83-a5fc-746964e43543)
+
 
 #### Description
 This project involves interfacing a DHT sensor with an Arduino to measure temperature and humidity. The readings from the sensor are displayed on an LCD screen or the serial monitor. This project introduces essential concepts of sensor interfacing, data reading, and display using Arduino.
